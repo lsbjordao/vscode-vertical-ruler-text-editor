@@ -1,0 +1,1 @@
+# Install `Cursor column highlight` (VS Code extension)
